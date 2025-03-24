@@ -1,7 +1,7 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2025 Mikael K.
+Copyright (c) 2025 WD Studios Corp & Advanced Micro Devices, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
